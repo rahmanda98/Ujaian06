@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585333194464",
+    "project_id": "people-database-83a57",
+    "storage_bucket": "people-database-83a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585333194464:android:b4cff710ae00c8c4bc9a85",
+        "android_client_info": {
+          "package_name": "com.natvieuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585333194464-nv9om8q01hhjmjn49kb58g1ikvr9rcli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIDDcFMf54wleeLaqtjTkTUJ3PVGYVMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585333194464-nv9om8q01hhjmjn49kb58g1ikvr9rcli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
